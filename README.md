@@ -39,7 +39,7 @@
   
   ![jquery](https://img.shields.io/badge/-jquery-000?&logo=jquery)
   ![Axios](https://img.shields.io/badge/-Axios-000?&logo=Axios)
-  ![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual-Studio-Code)
+  ![vscode](https://img.shields.io/badge/-VScode-000?&logo=Visual-Studio-Code)
     <br/>
 </div>
 </br>
