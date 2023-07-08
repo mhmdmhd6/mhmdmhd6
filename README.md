@@ -19,7 +19,7 @@
 <p align="center">My name is Mohammad, and I am a junior front-end developer. I have a passion for creating beautiful and functional web experiences. With a solid foundation in HTML, CSS, and JavaScript, I strive to bring designs to life with clean and efficient code.</p>
 
 
-<h1 align="center">🔥 my skills</h1>
+<h1 align="center">🔥 my skills : </h1>
 <div align="center">
   
   ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
