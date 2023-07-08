@@ -17,7 +17,7 @@
 </div>
 </br>
 <p align="center">My name is Mohammad, and I am a junior front-end developer. I have a passion for creating beautiful and functional web experiences. With a solid foundation in HTML, CSS, and JavaScript, I strive to bring designs to life with clean and efficient code.</p>
-</br>
+
 
 <h1 align="center">🔥 my skills</h1>
 <div align="center">
@@ -42,7 +42,7 @@
   ![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual-Studio-Code)
     <br/>
 </div>
-
+</br>
 
 <div>
   <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=mhmdmhd6&show_icons=true&theme=radical" />
