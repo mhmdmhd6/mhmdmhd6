@@ -45,8 +45,8 @@
 </br>
 
 <div align="center">
-  <img max-width="100%" width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=mhmdmhd6&show_icons=true&theme=radical" />
-  <img max-width="100%" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdmhd6&layout=compact&theme=radical" />
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=mhmdmhd6&show_icons=true&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdmhd6&layout=compact&theme=radical" />
 </div>
 
 
