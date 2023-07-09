@@ -44,8 +44,8 @@
 </div>
 </br>
 
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=mhmdmhd6&show_icons=true&theme=radical" />
+<div align="center">
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=mhmdmhd6&show_icons=true&theme=radical" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdmhd6&layout=compact&theme=radical" />
 </div>
 
