@@ -32,7 +32,6 @@
   
   ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
   ![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
-  ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
   ![bootstrap](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap)
 </div>
 <div align="center">
